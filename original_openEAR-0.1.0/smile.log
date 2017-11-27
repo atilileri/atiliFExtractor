@@ -1,0 +1,15 @@
+[ 18.11.2017 - 15:50:38 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 18.11.2017 - 15:50:38 ]
+    (MSG) [2] in SMILExtract : config file is: config/emobase.conf
+[ 18.11.2017 - 15:50:38 ]
+    (MSG) [2] in cComponentManager : successfully registered 73 component types.
+[ 18.11.2017 - 15:50:38 ]
+    (MSG) [2] in configManager : reading config file 'config/emobase.conf'
+[ 18.11.2017 - 15:50:38 ]
+    (MSG) [2] in cComponentManager : successfully finished createInstances
+                                 (23 component instances were finalised, 1 data memories were finalised)
+[ 18.11.2017 - 15:50:38 ]
+    (MSG) [2] in cComponentManager : starting single thread processing loop
+[ 18.11.2017 - 15:50:39 ]
+    (MSG) [2] in cComponentManager : Processing finished! System ran for 3898 ticks.
